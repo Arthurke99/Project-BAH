@@ -11,7 +11,7 @@
 
 ## 🖊️ Leírás
 
-//Story
+Az emberiség fejlődésével egyre nagyobb pusztítás söpört végig a világban. Az események hátterében egyetlen dolog áll, mindenki csak úgy említi, a Hatalmas. Nem tudni ki, vagy mi, az biztos, hogy az emberek alkották, de nem tudták megfékezni. Reményt vesztve istenükhöz fohászkodtak Gen-hez. Ő lehet az egyetlen, aki felveheti a küzdelmet a Hatalmas szervezkedése ellen. Az emberek reménykedtek, és imáikat meghallgatták fenn. Gen eljött, hogy véget vessen a káosznak, és visszatérjen a rend. Vajon sikerülni fog?
 
 ## 📄 Dokumentáció
 
@@ -24,8 +24,14 @@
   - A pályák háttere legyen animációja
   - A kamera mozgás kövesse a karaktert, ne fusson ki a képből
   - A pályákon lehessen életpontot veszteni csapdák és ellenfelek által
+  - A játék rendelkezzen menüvel, amiben állíthatja a felhasználó a különböző hangok/effektusok hangerejét
+  - A játék az életpontok elvesztésével érjen véget
 
 ### Nem funkcionális követelmények:
 
+  - A menü, illetve a menü gombjai rendelkezzenek saját hangeffektel/zenével
+  - A különböző ellenfelek nézzenek ki máshogy, esetenként legyenek átszínezve
+  - A különböző ellenfelek viselkedjenek máshogyan (közelharci/lövész)
+  - A játéknak legyen párbeszéd/dialóg rendszere
 
 
