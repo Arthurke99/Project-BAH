@@ -4,6 +4,7 @@
 
 - [Leírás](#%EF%B8%8F-le%C3%ADr%C3%A1s)
 - [Dokumentáció](#-dokument%C3%A1ci%C3%B3)
+  - [Animációk]
   - [Funkcionális követelmények](#funkcion%C3%A1lis-k%C3%B6vetelm%C3%A9nyek)
   - [Nem funkcionális követelmények](#nem-funkcion%C3%A1lis-k%C3%B6vetelm%C3%A9nyek)
 - [Használt technológiák](#-haszn%C3%A1lt-technol%C3%B3gi%C3%A1k)
@@ -14,6 +15,8 @@
 Az emberiség fejlődésével egyre nagyobb pusztítás söpört végig a világban. Az események hátterében egyetlen dolog áll, mindenki csak úgy említi, a Hatalmas. Nem tudni ki, vagy mi, az biztos, hogy az emberek alkották, de nem tudták megfékezni. Reményt vesztve istenükhöz fohászkodtak Gen-hez. Ő lehet az egyetlen, aki felveheti a küzdelmet a Hatalmas szervezkedése ellen. Az emberek reménykedtek, és imáikat meghallgatták fenn. Gen eljött, hogy véget vessen a káosznak, és visszatérjen a rend. Vajon sikerülni fog?
 
 ## 📄 Dokumentáció
+
+## 🔧 Animációk:
 
 ### Funkcionális követelmények:
 
@@ -33,5 +36,3 @@ Az emberiség fejlődésével egyre nagyobb pusztítás söpört végig a világ
   - A különböző ellenfelek nézzenek ki máshogy, esetenként legyenek átszínezve
   - A különböző ellenfelek viselkedjenek máshogyan (közelharci/lövész)
   - A játéknak legyen párbeszéd/dialóg rendszere
-
-
