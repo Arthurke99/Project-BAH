@@ -16,7 +16,7 @@ Az emberiség fejlődésével egyre nagyobb pusztítás söpört végig a világ
 
 ## 📄 Dokumentáció
 
-### 🔧 Animációk:
+### Animációk:
 
 ### Funkcionális követelmények:
 
