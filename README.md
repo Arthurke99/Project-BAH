@@ -19,7 +19,7 @@ Az emberiség fejlődésével egyre nagyobb pusztítás söpört végig a világ
 ### Animációk:
 
 <p align="center">
-  <img src="https://github.com/Project-BAH/cloudified/blob/main/Documentation/images/cloudified-use-case.png" width="700">
+  <img src="https://github.com/Project-BAH/main/Fly.png" width="700">
 </p>
 
 ### Funkcionális követelmények:
