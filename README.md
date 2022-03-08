@@ -8,3 +8,18 @@
   - [Nem funkcionális követelmények](#nem-funkcion%C3%A1lis-k%C3%B6vetelm%C3%A9nyek)
 - [Használt technológiák](#-haszn%C3%A1lt-technol%C3%B3gi%C3%A1k)
 - [Használt eszközök](#-haszn%C3%A1lt-eszk%C3%B6z%C3%B6k)
+
+## 🖊️ Leírás
+
+//Story
+
+## 📄 Dokumentáció
+
+### Funkcionális követelmények:
+
+
+
+### Nem funkcionális követelmények:
+
+
+
